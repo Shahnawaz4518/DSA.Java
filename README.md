@@ -1,4 +1,4 @@
-# DSA.java Project
+# DSA.java 
 
 Welcome to the DSA.java project! This repository contains various data structures and algorithms (DSA) implementations and practice problems. The focus of this project is on learning and implementing fundamental concepts in data structures and algorithms using Java.
 
